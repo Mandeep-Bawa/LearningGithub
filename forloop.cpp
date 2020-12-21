@@ -6,4 +6,6 @@ main()
     {
         cout<<"Hello"<<endl;
     }
+    cout<<endl<<"OK. Bye"<<endl;
+    cout<<endl<<"No no wait take this"<<endl;
 }
